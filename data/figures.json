@@ -1,12 +1,6602 @@
 [
   {
-    "name": "Placeholder Name",
-    "birth": 1900,
-    "death": 1980,
-    "tags": ["activist", "transgressive"],
-    "bio": "This is just a placeholder person for testing.",
-    "wikipedia": "https://en.wikipedia.org/wiki/Example"
+    "name": "Main page",
+    "wikipedia": "https://en.wikipedia.org/wiki/Main_Page",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Contents",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia:Contents",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Current events",
+    "wikipedia": "https://en.wikipedia.org/wiki/Portal:Current_events",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Random article",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:Random",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "About Wikipedia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia:About",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Help",
+    "wikipedia": "https://en.wikipedia.org/wiki/Help:Contents",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Learn to edit",
+    "wikipedia": "https://en.wikipedia.org/wiki/Help:Introduction",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Community portal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia:Community_portal",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Recent changes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:RecentChanges",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Upload file",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia:File_upload_wizard",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Special pages",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:SpecialPages",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Contributions",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:MyContributions",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Talk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:MyTalk",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Article",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_rights_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Talk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Talk:List_of_LGBTQ_rights_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Read",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_rights_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Read",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_rights_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "What links here",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:WhatLinksHere/List_of_LGBTQ_rights_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Related changes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:RecentChangesLinked/List_of_LGBTQ_rights_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Xheni Karaj",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xheni_Karaj",
+    "bio": "founder of Aleanca LGBT organization and recipient of the Civil Rights Defenders of the Year Award 2022[1]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kristi Pinderi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristi_Pinderi",
+    "bio": "LGBT activist and journalist; founder of Pro-LGBT[1]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Carlos Fernandes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Fernandes_(activist)",
+    "bio": "LGBT activist and a founder/director of the Iris Angola Association.[2]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Imanni Da Silva",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imanni_Da_Silva",
+    "bio": "Angolan model and transgender rights activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Titica",
+    "wikipedia": "https://en.wikipedia.org/wiki/Titica",
+    "bio": "transgender Angolan singer and goodwill ambassador for UNAIDS",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mariana Alarcón",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariana_Alarc%C3%B3n",
+    "bio": "human rights activist who worked for labor rights for transgender women[3]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Claudia Pía Baudracco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudia_P%C3%ADa_Baudracco",
+    "bio": "led the movement to repeal laws criminalizing transgender identities; co-founder of the Argentine Lesbian, Gay, Bisexual, and Trans Federation[4]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lohana Berkins",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lohana_Berkins",
+    "bio": "founder of the Association for the Fight for Travesti and Transsexual Identity[5]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lara María Bertolini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lara_Mar%C3%ADa_Bertolini",
+    "bio": "human rights activist advocating for the rights of travesti, transgender, and non-binary people[6]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Claudia Castrosín Verdú",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Castros%C3%ADn_Verd%C3%BA",
+    "bio": "she and her partner were the first lesbian couple to form a civil union in Latin America; vice president of FALGBT[7]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "María Rachid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mar%C3%ADa_Rachid",
+    "bio": "politician and LGBT rights activist, partner of Claudia Castrosín Verdú[7]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Diana Sacayán",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diana_Sacay%C3%A1n",
+    "bio": "board member of the International Lesbian, Gay, Bisexual, Trans and Intersex Association and a leader of the Antidiscrimination Liberation Movement[8]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lilit Martirosyan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lilit_Martirosyan",
+    "bio": "trans right activist, founder of the Right Side NGO[9]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Right Side NGO",
+    "wikipedia": "https://en.wikipedia.org/wiki/Right_Side_NGO",
+    "bio": "Lilit Martirosyan, trans right activist, founder of the [9]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ron Austin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ron_Austin_(activist)",
+    "bio": "[10]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Peter Bonsall-Boone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Bonsall-Boone",
+    "bio": "[11]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bob Brown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Brown",
+    "bio": "[12]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lyle Chan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lyle_Chan",
+    "bio": "member of ACT UP[13]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "ACT UP",
+    "wikipedia": "https://en.wikipedia.org/wiki/ACT_UP",
+    "bio": "Lyle Chan, member of [13]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Rodney Croome",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Croome",
+    "bio": "[14]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Peter De Waal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_De_Waal",
+    "bio": "[15]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alex Greenwich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Greenwich",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Grace Hyland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Hyland",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Craig Johnston (politician)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_Johnston_(politician)",
+    "bio": "[16]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michael Kirby (judge)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Kirby_(judge)",
+    "bio": "Justice of the High Court of Australia",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "High Court of Australia",
+    "wikipedia": "https://en.wikipedia.org/wiki/High_Court_of_Australia",
+    "bio": "Michael Kirby (judge), Justice of the",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Julie McCrossin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_McCrossin",
+    "bio": "[17]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sally Rugg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Rugg",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Magda Szubanski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magda_Szubanski",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Derek Williams (LGBT rights activist)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Williams_(LGBT_rights_activist)",
+    "bio": "co-founder of GaLTaS[18]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "GaLTaS",
+    "wikipedia": "https://en.wikipedia.org/wiki/GaLTaS",
+    "bio": "Derek Williams (LGBT rights activist), co-founder of [18]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Helmut Graupner",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helmut_Graupner",
+    "bio": "lawyer and LGBT activist[19]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Life Ball",
+    "wikipedia": "https://en.wikipedia.org/wiki/Life_Ball",
+    "bio": "Gery Keszler, organizer of the [20]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alex Jürgen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_J%C3%BCrgen",
+    "bio": "[21]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ulrike Lunacek",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulrike_Lunacek",
+    "bio": "[22]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Hermann von Teschenberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hermann_von_Teschenberg",
+    "bio": "barrister, translator, and LGBT rights activist[23]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Xulhaz Mannan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xulhaz_Mannan",
+    "bio": "[24]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ro-Ann Mohammed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ro-Ann_Mohammed",
+    "bio": "co-founder of the organization Barbados - Gays, Lesbians and All-Sexuals against Discrimination (B-GLAD)[25]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Donnya Piggott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Donnya_Piggott",
+    "bio": "tech entrepreneur, human rights advocate, co-founder of the organization Barbados - Gays, Lesbians and All-Sexuals against Discrimination (B-GLAD)[25]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sonja Eggerickx",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonja_Eggerickx",
+    "bio": "teacher, women and LGBT rights advocate[26]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Eliane Morissens",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eliane_Morissens",
+    "bio": "teacher and LGBT activist for labor rights[27]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Derricia Castillo-Salazar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derricia_Castillo-Salazar",
+    "bio": "[28]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Caleb Orozco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caleb_Orozco",
+    "bio": "[29]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Katlego Kai Kolanyane-Kesupile",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katlego_Kai_Kolanyane-Kesupile",
+    "bio": "performance artist, musician, writer and LGBT activist[30]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Monica Tabengwa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monica_Tabengwa",
+    "bio": "lawyer and researcher on LGBT rights issues in sub-Saharan Africa[31]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Caine Youngman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Caine_Youngman",
+    "bio": "involved in court cases to legalize same-sex relationships[32]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Luiz Mott",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luiz_Mott",
+    "bio": "[33]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jean Wyllys",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Wyllys",
+    "bio": "[34]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Toni Reis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toni_Reis",
+    "bio": "[35]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "João Silvério Trevisan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Silv%C3%A9rio_Trevisan",
+    "bio": "[36]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Míriam Martinho",
+    "wikipedia": "https://en.wikipedia.org/wiki/M%C3%ADriam_Martinho",
+    "bio": "[37]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Desislava Petrova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Desislava_Petrova",
+    "bio": "LGBT activist, former president of Gemini[38]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gemini",
+    "wikipedia": "https://en.wikipedia.org/wiki/BGO_Gemini",
+    "bio": "Desislava Petrova, LGBT activist, former president of [38]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Monika Pisankaneva",
+    "wikipedia": "https://en.wikipedia.org/wiki/Monika_Pisankaneva",
+    "bio": "lecturer and activist; founder of Gemini[39]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gemini",
+    "wikipedia": "https://en.wikipedia.org/wiki/BGO_Gemini",
+    "bio": "Monika Pisankaneva, lecturer and activist; founder of [39]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bandy Kiki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bandy_Kiki",
+    "bio": "blogger and LGBTQ activist[40]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Joel Gustave Nana Ngongang",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joel_Gustave_Nana_Ngongang",
+    "bio": "[41]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alice Nkom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Nkom",
+    "bio": "first woman lawyer in Cameroon and LGBTQ rights activist[42]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Barry D. Adam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_D._Adam",
+    "bio": "(born 1952) – sociologist, author, and HIV/AIDS prevention researcher[43]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Enza Anderson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Enza_Anderson",
+    "bio": "(born 1964) – trans rights activist and journalist[44]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Florence Ashley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Florence_Ashley",
+    "bio": "activist and academic who specializes in trans law and bioethics[45]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Chris Bearchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Bearchell",
+    "bio": "(1953–2007) – gay liberation activist and right to privacy advocate",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "right to privacy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Right_to_privacy",
+    "bio": "Chris Bearchell (1953–2007) – gay liberation activist and  advocate",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alec Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alec_Butler",
+    "bio": "(born 1959) – filmmaker and playwright[46]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michelle Douglas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Douglas",
+    "bio": "(born 1963) – human rights activist who challenged military anti-LGBTQ discrimination policies[47]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jim Egan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Egan_(activist)",
+    "bio": "(1921–2000) – early LGBTQ rights activist known for his role in Egan v Canada[48]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Egan v Canada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Egan_v_Canada",
+    "bio": "Jim Egan (1921–2000) – early LGBTQ rights activist known for his role in [48]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Brent Hawkes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brent_Hawkes",
+    "bio": "(born 1950) – gay rights activist and clergyman[49]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alan Herbert",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Herbert_(Canadian_politician)",
+    "bio": "(1944–2003) – LGBTQ rights activist and one of Canada's first out gay politicians[50][51]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "George Hislop",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Hislop",
+    "bio": "(1927–2005) – gay rights activist and one of Canada's first out gay politicians[52]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "k.d. lang",
+    "wikipedia": "https://en.wikipedia.org/wiki/K.d._lang",
+    "bio": "(born 1961) – music artist and LGBTQ rights activist[53]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "John Alan Lee",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Alan_Lee",
+    "bio": "(1933–2013) – sociologist and early LGBTQ rights activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michael Lynch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Lynch_(professor)",
+    "bio": "(1944–1991) – gay liberationist and AIDS activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Irshad Manji",
+    "wikipedia": "https://en.wikipedia.org/wiki/Irshad_Manji",
+    "bio": "(born 1968) – educator, human rights activist, and advocate for LGBTQ Muslims' rights[54][55][56][57]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBTQ Muslims",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_people_and_Islam",
+    "bio": "Irshad Manji (born 1968) – educator, human rights activist, and advocate for ' rights[54][55][56][57]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tim McCaskell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_McCaskell",
+    "bio": "(born 1951) – gay rights and AIDS activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Christin Milloy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christin_Milloy",
+    "bio": "LGBTQ activist and Canada's first out transgender provincial-level political candidate[58]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Arsham Parsi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arsham_Parsi",
+    "bio": "activist and founder of the International Railroad for Queer Refugees[59]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "International Railroad for Queer Refugees",
+    "wikipedia": "https://en.wikipedia.org/wiki/International_Railroad_for_Queer_Refugees",
+    "bio": "Arsham Parsi – activist and founder of the [59]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gordon Price",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Price",
+    "bio": "urban planner, gay rights activist, and former politician[60][61]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Svend Robinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Svend_Robinson",
+    "bio": "(born 1952) – Canada's first MP to come out as gay while in office[62]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "MP",
+    "wikipedia": "https://en.wikipedia.org/wiki/Member_of_Parliament_(Canada)",
+    "bio": "Svend Robinson (born 1952) – Canada's first  to come out as gay while in office[62]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bill Siksay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Siksay",
+    "bio": "(born 1955) – first out gay non-incumbent man to be elected to Canada's House of Commons[63]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Clara Sorrenti",
+    "wikipedia": "https://en.wikipedia.org/wiki/Keffals",
+    "bio": "(born 1994) – Twitch stream, political commentator, and trans rights activist[64]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Richard Summerbell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Summerbell",
+    "bio": "(born 1956) – scientist, author, and gay activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jenna Talackova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jenna_Talackova",
+    "bio": "(born 1988) – model who successfully waged a legal battle to be allowed to compete in the Miss Universe Canada[65]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Miss Universe Canada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miss_Universe_Canada",
+    "bio": "Jenna Talackova (born 1988) – model who successfully waged a legal battle to be allowed to compete in the [65]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mark Tewksbury",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Tewksbury",
+    "bio": "(born 1968) – competitive swimmer who challenged homophobia in the sports world[66]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kai Cheng Thom",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kai_Cheng_Thom",
+    "bio": "(born 1991) – writer, performance artist, and activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Thomas Waugh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Waugh",
+    "bio": "(born 1948) – academic, film critic, and activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Luis Larraín",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luis_Larra%C3%ADn",
+    "bio": "[67]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Pedro Lemebel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Lemebel",
+    "bio": "[68]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jaime Parada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaime_Parada",
+    "bio": "[69]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Pablo Salvador",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Salvador",
+    "bio": "[70]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Li Tingting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Li_Tingting",
+    "bio": "LGBT rights and feminist activist[71]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Li Yinhe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Li_Yinhe",
+    "bio": "[72]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Cui Zi'en",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cui_Zi%27en",
+    "bio": "[73]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Xian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Xian_(activist)",
+    "bio": "LGBT rights activist and founder of Beijing-based lesbian organization Tongyu[74]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Virgilio Barco Isakson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Virgilio_Barco_Isakson",
+    "bio": "(b. 1965)[75]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Armando Benedetti Villaneda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Armando_Benedetti_Villaneda",
+    "bio": "(b. 1962)[76]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Blanca Inés Durán Hernández",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blanca_In%C3%A9s_Dur%C3%A1n_Hern%C3%A1ndez",
+    "bio": "[77]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Angélica Lozano Correa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ang%C3%A9lica_Lozano_Correa",
+    "bio": "[78]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tatiana de la Tierra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tatiana_de_la_tierra",
+    "bio": "[79]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Juliana Delgado Lopera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Juliana_Delgado_Lopera",
+    "bio": "[80]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Victor Madrigal-Borloz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Madrigal-Borloz",
+    "bio": "[81]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Merlinka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merlinka",
+    "bio": "[82]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mima Simić",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mima_Simi%C4%87",
+    "bio": "LGBTQ activist and Croatia's first openly out LGBTIQ+ political candidate[83]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBTIQ+",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ",
+    "bio": "Mima Simić, LGBTQ activist and Croatia's first openly out  political candidate[83]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ada Bello",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ada_Bello",
+    "bio": "LGBTQ rights activist and medical researcher[84]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mariela Castro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mariela_Castro",
+    "bio": "director of the National Commission for Comprehensive Attention to Transsexual People[85]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Axel and Eigil Axgil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Axel_and_Eigil_Axgil",
+    "bio": "Danish gay rights advocates[86]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lili Elbe",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lili_Elbe",
+    "bio": "(b. 1882), Danish painter, transgender woman[87]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Orlando Montoya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orlando_Montoya",
+    "bio": "Colombian who led Ecuador's decriminalization of homosexuality[88]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Diane Rodríguez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diane_Rodr%C3%ADguez",
+    "bio": "[89]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Carina Vance Mafla",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carina_Vance_Mafla",
+    "bio": "[90]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sandra Álvarez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_%C3%81lvarez",
+    "bio": "(born 1967), founder of the Ecuadorian Organization of Lesbian Women and the first openly LGBT person to hold an elected position in Ecuador’s National Assembly[91]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Maher Sabry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maher_Sabry",
+    "bio": "[92]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Omar Sharif Jr.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Omar_Sharif_Jr.",
+    "bio": "[93]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sarah Hegazi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Hegazi",
+    "bio": "[94]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Shrouk El-Attar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shrouk_El-Attar",
+    "bio": "[95]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ruby Corado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruby_Corado",
+    "bio": "Salvadoran LGBTQ rights activist[96]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lisette Kampus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisette_Kampus",
+    "bio": "[97]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Peeter Rebane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peeter_Rebane",
+    "bio": "[98]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sakris Kupila",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sakris_Kupila",
+    "bio": "[99]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sofi Oksanen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofi_Oksanen",
+    "bio": "[100]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Camille Cabral",
+    "wikipedia": "https://en.wikipedia.org/wiki/Camille_Cabral",
+    "bio": "[101]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Pierre Guénin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Gu%C3%A9nin",
+    "bio": "[102]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Fabrice Houdart",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fabrice_Houdart",
+    "bio": "[103]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Christiane Taubira",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christiane_Taubira",
+    "bio": "[104]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lilian Thuram",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lilian_Thuram",
+    "bio": "former French soccer player[105]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Rama Yade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rama_Yade",
+    "bio": "former Secretary of State for Foreign Affairs and Human Rights of France[106]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Adolf Brand",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Brand",
+    "bio": "[107]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Manfred Bruns",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manfred_Bruns",
+    "bio": "[108]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Volker Beck",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volker_Beck_(politician)",
+    "bio": "[109]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Benedict Friedlaender",
+    "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Friedlaender",
+    "bio": "[110]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Magnus Hirschfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Magnus_Hirschfeld",
+    "bio": "[111]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Corny Littmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Corny_Littmann",
+    "bio": "[112]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Karl Heinrich Ulrichs",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Heinrich_Ulrichs",
+    "bio": "[113]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jason-Antigone Dane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jason-Antigone_Dane",
+    "bio": "LGBT activist, first person to ask for official recognition as a non-binary person[114]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Marina Galanou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marina_Galanou",
+    "bio": "trans activist, publisher, writer, and columnist[115]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Zak Kostopoulos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zak_Kostopoulos",
+    "bio": "Greek-American LGBT, AIDS, refugee, sex-worker activist[116]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Menelas Siafakas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Menelas_Siafakas",
+    "bio": "filmmaker and LGBT activist[117]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Panos H. Koutras",
+    "wikipedia": "https://en.wikipedia.org/wiki/Panos_H._Koutras",
+    "bio": "filmmaker and LGBT activist[118]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Aldo Dávila",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldo_D%C3%A1vila",
+    "bio": "politician and first openly gay man and first HIV-positive member of Congress[119]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sandra Morán",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Mor%C3%A1n",
+    "bio": "first out LGBT person ever elected to Congress; LGBT and human rights activist[120]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Erick Martínez Ávila",
+    "wikipedia": "https://en.wikipedia.org/wiki/Erick_Mart%C3%ADnez_%C3%81vila",
+    "bio": "journalist and LGBT and AIDS activist[121]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Claudia Spellmant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Spellmant",
+    "bio": "LGBT and transgender activist[122]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Walter Tróchez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Tr%C3%B3chez",
+    "bio": "political activist and LGBT rights leader[123]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gergely Homonnay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gergely_Homonnay",
+    "bio": "journalist and LGBT activist[124]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ildikó Juhász",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ildik%C3%B3_Juh%C3%A1sz",
+    "bio": "[125]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Karl Maria Kertbeny",
+    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Maria_Kertbeny",
+    "bio": "journalist and human rights activist who coined the terms \"homosexual\" and \"heterosexual\"[126]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Owl Fisher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Owl_Fisher",
+    "bio": "youngest trans person to medically transition in Iceland and LGBT activist[127]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Hörður Torfason",
+    "wikipedia": "https://en.wikipedia.org/wiki/H%C3%B6r%C3%B0ur_Torfason",
+    "bio": "[128]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Akkai Padmashali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akkai_Padmashali",
+    "bio": "[129]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Anand Grover",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anand_Grover",
+    "bio": "[130]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Anjali Gopalan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anjali_Gopalan",
+    "bio": "[131]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ashok Row Kavi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashok_Row_Kavi",
+    "bio": "[132]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gopi Shankar Madurai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gopi_Shankar_Madurai",
+    "bio": "[133]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Harish Iyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harish_Iyer",
+    "bio": "[134]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Laxmi Narayan Tripathi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Laxmi_Narayan_Tripathi",
+    "bio": "[135]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Manvendra Singh Gohil",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manvendra_Singh_Gohil",
+    "bio": "[136]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Menaka Guruswamy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Menaka_Guruswamy",
+    "bio": "[137]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ramachandrapurapu Raj Rao",
+    "wikipedia": "https://en.wikipedia.org/wiki/R._Raj_Rao",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Rose Venkatesan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rose_Venkatesan",
+    "bio": "[138]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sonal Giani",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonal_Giani",
+    "bio": "[139]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sridhar Rangayan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sridhar_Rangayan",
+    "bio": "[140]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dede Oetomo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dede_Oetomo",
+    "bio": "[141]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alireza Shojaian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alireza_Shojaian",
+    "bio": "[142]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Arsham Parsi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arsham_Parsi",
+    "bio": "[143]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Elham Malekpoor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elham_Malekpoor_Arashlu",
+    "bio": "[144]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Shadi Amin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shadi_Amin",
+    "bio": "[145]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Amir Ashour",
+    "wikipedia": "https://en.wikipedia.org/wiki/IraQueer",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Zhiar Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhiar_Ali",
+    "bio": "[146]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mary Dorcey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Dorcey",
+    "bio": "[147]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lydia Foy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lydia_Foy",
+    "bio": "[148]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "David Norris",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Norris_(politician)",
+    "bio": "[149]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tonie Walsh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tonie_Walsh",
+    "bio": "[150]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Katherine Zappone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Zappone",
+    "bio": "[151]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Imri Kalmann",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imri_Kalmann",
+    "bio": "former co-chairperson of the Israeli LGBT Association[152]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Yair Qedar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yair_Qedar",
+    "bio": "founder of Israel's first LGBT newspaper[153]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Franco Grillini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franco_Grillini",
+    "bio": "[154]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Vladimir Luxuria",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Luxuria",
+    "bio": "[155]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Imma Battaglia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imma_Battaglia",
+    "bio": "[156]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Maurice Tomlinson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Tomlinson",
+    "bio": "LGBT and HIV/AIDS activist who challenged the homophobic Sodomy Law[157]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sodomy Law",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sodomy_law",
+    "bio": "Maurice Tomlinson, LGBT and HIV/AIDS activist who challenged the homophobic [157]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Brian Williamson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Williamson",
+    "bio": "co-founded the Jamaica Forum for Lesbians, All-Sexuals and Gays[158]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jamaica Forum for Lesbians, All-Sexuals and Gays",
+    "wikipedia": "https://en.wikipedia.org/wiki/J-FLAG",
+    "bio": "Brian Williamson, co-founded the [158]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Taiga Ishikawa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taiga_Ishikawa",
+    "bio": "[159]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Wataru Ishizaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wataru_Ishizaka",
+    "bio": "[160]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Maki Muraki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maki_Muraki",
+    "bio": "(born 1974), head of Nijiro Diversity in Osaka[161]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kanako Otsuji",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kanako_Otsuji",
+    "bio": "first openly lesbian politician in Japan[162]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Denis Nzioka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Nzioka",
+    "bio": "[163]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Edwin Chiloba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Chiloba",
+    "bio": "(deceased)[164]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dastan Kasmamytov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dastan_Kasmamytov",
+    "bio": "[165][166]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kristīne Garina",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krist%C4%ABne_Garina",
+    "bio": "LGBT activist and co-founder of Mozaīka[167]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Georges Azzi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Azzi",
+    "bio": "[168]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Hamed Sinno",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamed_Sinno",
+    "bio": "[169]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sandra Melhem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandra_Melhem",
+    "bio": "[170]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Romas Zabarauskas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romas_Zabarauskas",
+    "bio": "[171]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Marija Aušrinė Pavilionienė",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marija_Au%C5%A1rin%C4%97_Pavilionien%C4%97",
+    "bio": "[172]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ruth Baldacchino",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruth_Baldacchino",
+    "bio": "[173]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gabi Calleja",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabi_Calleja",
+    "bio": "[174]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mina Tolu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mina_Tolu",
+    "bio": "[175]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ociel Baena",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ociel_Baena",
+    "bio": "activist and Mexico's first non-binary magistrate[176]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Nancy Cardenas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Cardenas",
+    "bio": "playwright, director, and LGBT+ activist[177]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gloria Angélica Careaga Pérez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Careaga_P%C3%A9rez",
+    "bio": "social psychologist and activist[178]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Agnés Torres Hernández",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agn%C3%A9s_Torres_Hern%C3%A1ndez",
+    "bio": "psychologist and transgender activist[179]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Claudia Hinojosa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Claudia_Hinojosa",
+    "bio": "LGBT and human rights activist, academic[180]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Patria Jiménez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Patria_Jim%C3%A9nez",
+    "bio": "the first openly gay member of any Latin American legislature[181]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bamby Salcedo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bamby_Salcedo",
+    "bio": "Mexican-American transgender activist[182]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Julio César Martín-Trejo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julio_C%C3%A9sar_Mart%C3%ADn-Trejo",
+    "bio": "Anglican bishop",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ibtissam Lachgar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ibtissam_Lachgar",
+    "bio": "psychologist and human rights and LGBT activist[183]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "John Lwin",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Lwin",
+    "bio": "model agency founder, LGBT rights activist[184]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Shin Thant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shin_Thant",
+    "bio": "one of the leading LGBTQ+ rights activists in Myanmar[185]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sunil Babu Pant",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sunil_Babu_Pant",
+    "bio": "first openly gay Nepali politician, former head of Blue Diamond Society[186]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Blue Diamond Society",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Diamond_Society",
+    "bio": "Sunil Babu Pant, first openly gay Nepali politician, former head of [186]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bhumika Shrestha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhumika_Shrestha",
+    "bio": "[187]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Willem Arondeus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Willem_Arondeus",
+    "bio": "[188]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Vera Bergkamp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vera_Bergkamp",
+    "bio": "former chairman of the world's oldest LGBT organization[189]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "world's oldest LGBT organization",
+    "wikipedia": "https://en.wikipedia.org/wiki/COC_Nederland",
+    "bio": "Vera Bergkamp, former chairman of the [189]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "John Blankenstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Blankenstein",
+    "bio": "[190]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Boris Dittrich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Dittrich",
+    "bio": "[191]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Coos Huijsen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Coos_Huijsen",
+    "bio": "first openly gay parliamentarian[192]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Henk Krol",
+    "wikipedia": "https://en.wikipedia.org/wiki/Henk_Krol",
+    "bio": "[193]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Betty Paërl",
+    "wikipedia": "https://en.wikipedia.org/wiki/Betty_Pa%C3%ABrl",
+    "bio": "[194]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Marjan Sax",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marjan_Sax",
+    "bio": "[195]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Georgina Beyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georgina_Beyer",
+    "bio": "first openly transgender mayor in NZ.[196]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Suran Dickson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suran_Dickson",
+    "bio": "[197]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kevin Hague",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Hague",
+    "bio": "[198]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kassie Hartendorp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kassie_Hartendorp",
+    "bio": "[199]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ngahuia Te Awekotuku",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ngahuia_Te_Awekotuku",
+    "bio": "[200]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Derek Williams (LGBT rights activist)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Williams_(LGBT_rights_activist)",
+    "bio": "co-founder of GaLTaS.[201]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "GaLTaS",
+    "wikipedia": "https://en.wikipedia.org/wiki/GaLTaS",
+    "bio": "Derek Williams (LGBT rights activist), co-founder of .[201]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Richard Akuson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Akuson",
+    "bio": "lawyer and founder of Nigeria's first LGBT magazine[202]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bisi Alimi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bisi_Alimi",
+    "bio": "British-Nigerian LGBT and HIV/AIDS activist[203]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Aderonke Apata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aderonke_Apata",
+    "bio": "LGBT activist and barrister[204]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kim Friele",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim_Friele",
+    "bio": "[205]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Christian Møllerop",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christian_M%C3%B8llerop",
+    "bio": "leader of the Oslo and Akershus LLH[206]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Oslo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oslo",
+    "bio": "Christian Møllerop, leader of the  and Akershus LLH[206]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Akershus",
+    "wikipedia": "https://en.wikipedia.org/wiki/Akershus",
+    "bio": "Christian Møllerop, leader of the Oslo and  LLH[206]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LLH",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norwegian_National_Association_for_Lesbian_and_Gay_Liberation",
+    "bio": "Christian Møllerop, leader of the Oslo and Akershus [206]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Faisal Alam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Faisal_Alam",
+    "bio": "[207]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Nayyab Ali",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nayyab_Ali",
+    "bio": "[208]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Almas Bobby",
+    "wikipedia": "https://en.wikipedia.org/wiki/Almas_Bobby",
+    "bio": "[209]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sara Gill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sara_Gill",
+    "bio": "[210]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Nadeem Kashish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadeem_Kashish",
+    "bio": "[211]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Aradhiya Khan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aradhiya_Khan",
+    "bio": "[212]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bindiya Rana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bindiya_Rana",
+    "bio": "[213]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Nisha Rao",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nisha_Rao",
+    "bio": "[214]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Khader Abu-Seif",
+    "wikipedia": "https://en.wikipedia.org/wiki/Khader_Abu-Seif",
+    "bio": "[215]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Rauda Morcos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rauda_Morcos",
+    "bio": "[216]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bashar Murad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bashar_Murad",
+    "bio": "[217]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ghadir Shafie",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghadir_Shafie",
+    "bio": "[218]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ahmed Shihab-Eldin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmed_Shihab-Eldin",
+    "bio": "[219]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gilberto Gerald",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilberto_Gerald",
+    "bio": "gay rights and HIV/AIDS activist, co-founder of the National Coalition of Black Lesbians and Gays[220]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "National Coalition of Black Lesbians and Gays",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_Coalition_of_Black_Lesbians_and_Gays",
+    "bio": "Gilberto Gerald, gay rights and HIV/AIDS activist, co-founder of the [220]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Belissa Andía Pérez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Belissa_And%C3%ADa_P%C3%A9rez",
+    "bio": "[221]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Luisa Revilla",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luisa_Revilla",
+    "bio": "[222]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Giovanny Romero Infante",
+    "wikipedia": "https://en.wikipedia.org/wiki/Giovanny_Romero_Infante",
+    "bio": "[223]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tonette Lopez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tonette_Lopez",
+    "bio": "[224]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Boy Abunda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boy_Abunda",
+    "bio": "[225]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Robert Biedroń",
+    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Biedro%C5%84",
+    "bio": "[226]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Anna Grodzka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Grodzka",
+    "bio": "[227]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Krzysztof Garwatowski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krzysztof_Garwatowski",
+    "bio": "[228]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Krystian Legierski",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krystian_Legierski",
+    "bio": "[229]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Paweł Leszkowicz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pawe%C5%82_Leszkowicz",
+    "bio": "[230]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Szymon Niemiec",
+    "wikipedia": "https://en.wikipedia.org/wiki/Szymon_Niemiec",
+    "bio": "[231]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Miguel Vale de Almeida",
+    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Vale_de_Almeida",
+    "bio": "[232]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "António Serzedelo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Serzedelo",
+    "bio": "[233]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Naser Mohamed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Naser_Mohamed",
+    "bio": "[234]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lucian Dunăreanu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucian_Dun%C4%83reanu",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Péter Eckstein-Kovács",
+    "wikipedia": "https://en.wikipedia.org/wiki/P%C3%A9ter_Eckstein-Kov%C3%A1cs",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Nikolai Alekseev",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nikolay_Alexeyev",
+    "bio": "[235]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ali Feruz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ali_Feruz",
+    "bio": "[236]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Igor Kochetkov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Igor_Kochetkov",
+    "bio": "head of the LGBT Network[237]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Yekaterina Samutsevich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yekaterina_Samutsevich",
+    "bio": "[238]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Evgeny Shtorn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evgeny_Shtorn",
+    "bio": "[239]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mikhail Tumasov",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Tumasov",
+    "bio": "[240]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Yulia Tsvetkova",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yulia_Tsvetkova",
+    "bio": "[241]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dejan Nebrigić",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dejan_Nebrigi%C4%87",
+    "bio": "[242]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sonja Sajzor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonja_Sajzor",
+    "bio": "[243]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sajsi MC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sajsi_MC",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Merlinka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Merlinka",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Goran Jevtić (actor)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Goran_Jevti%C4%87_(actor)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lepa Mladjenovic",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lepa_Mladjenovic",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kristian Ranđelović",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kristian_Ran%C4%91elovi%C4%87",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Boban Stojanović (activist)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boban_Stojanovi%C4%87_(activist)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "FannyAnn Eddy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fannyann_Eddy",
+    "bio": "[244]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alex Au",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alex_Au",
+    "bio": "[245]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Paddy Chew",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paddy_Chew",
+    "bio": "first person in Singapore to come out as HIV-positive[246]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jean Chong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Chong",
+    "bio": "[247]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Zuzana Čaputová",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zuzana_%C4%8Caputov%C3%A1",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Imrich Matyáš",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imrich_Maty%C3%A1%C5%A1",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Romana Schlesinger",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romana_Schlesinger",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michal Šimečka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michal_%C5%A0ime%C4%8Dka",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Amal Aden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amal_Aden",
+    "bio": "[248]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Farah Abdullahi Abdi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Farah_Abdullahi_Abdi",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sumaya Dalmar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumaya_Dalmar",
+    "bio": "[249]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Muhsin Hendricks",
+    "wikipedia": "https://en.wikipedia.org/wiki/Muhsin_Hendricks",
+    "bio": "[250]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Abdurrazack \"Zackie\" Achmat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zackie_Achmat",
+    "bio": "[251]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dawn Cavanagh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dawn_Cavanagh",
+    "bio": "[252]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Busi Khewsa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Busi_Kheswa",
+    "bio": "[253]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Simon Nkoli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Nkoli",
+    "bio": "LGBT activist, founder of the Gay and Lesbian Organisation of the Witwatersrand[254]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Noxolo Nogwaza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Noxolo_Nogwaza",
+    "bio": "[255]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Funeka Soldaat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Funeka_Soldaat",
+    "bio": "leader of Free Gender Organisation in Khayelitsha, Western Cape[256]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Midi Achmat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Midi_Achmat",
+    "bio": "LGBT activist, co-founder of Treatment Action Campaign (TAC), Association of Bisexuals, Gays, and Lesbians (ABIGALE) and the National Coalition of Lesbian and Gay Equality (NCLGE)[257][258]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jeong Yol",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeong_Yol",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kim-Jho Gwangsoo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kim-Jho_Gwangsoo",
+    "bio": "[259]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kwak Yi-kyong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kwak_Yi-kyong",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lee Gye-deok",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Gye-deok",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lim Tae-hoon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lim_Tae-hoon",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Yun Hyon-seok",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yun_Hyon-seok",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Oriol Pamies",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oriol_Pamies",
+    "bio": "[260]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ángeles Álvarez",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C3%81ngeles_%C3%81lvarez",
+    "bio": "[261]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Carla Antonelli",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carla_Antonelli",
+    "bio": "[262]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lucas Platero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lucas_Platero",
+    "bio": "Spanish educator and researcher",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "educator",
+    "wikipedia": "https://en.wikipedia.org/wiki/Educator",
+    "bio": "Lucas Platero Spanish  and researcher",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "researcher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Researcher",
+    "bio": "Lucas Platero Spanish educator and",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sherman de Rose",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sherman_de_Rose",
+    "bio": "[263]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Rosanna Flamer-Caldera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rosanna_Flamer-Caldera",
+    "bio": "[264]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kenita Placide",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kenita_Placide",
+    "bio": "[265]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ahmed Umar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmed_Umar_(artist)",
+    "bio": "[266]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Anna Mohr",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Mohr",
+    "bio": "[267]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Röbi Rapp",
+    "wikipedia": "https://en.wikipedia.org/wiki/R%C3%B6bi_Rapp",
+    "bio": "[268]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Anna Rosenwasser",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Rosenwasser",
+    "bio": "[269]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Anna Vock",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Vock",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Abdulrahman Akkad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abdulrahman_Akkad",
+    "bio": "[270]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Josephine Ho",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Ho",
+    "bio": "[271]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Chi Chia-wei",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chi_Chia-wei",
+    "bio": "[272]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Matcha Phorn-in",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matcha_Phorn-in",
+    "bio": "[273]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Vitit Muntarbhorn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vitit_Muntarbhorn",
+    "bio": "[274]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jason Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jason_Jones_(activist)",
+    "bio": "[275]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jowelle de Souza",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jowelle_de_Souza",
+    "bio": "[276]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mounir Baatour",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mounir_Baatour",
+    "bio": "[277]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Barış Sulu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_Sulu",
+    "bio": "[278]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Demet Demir",
+    "wikipedia": "https://en.wikipedia.org/wiki/Demet_Demir",
+    "bio": "[279]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Hande Kader",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hande_Kader",
+    "bio": "(deceased)[280]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mehmet Tarhan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mehmet_Tarhan",
+    "bio": "[281]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Yasemin Öz",
+    "wikipedia": "https://en.wikipedia.org/wiki/Yasemin_%C3%96z",
+    "bio": "[282]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "David Kato",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Kato",
+    "bio": "[283]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kasha Nabagesera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kasha_Nabagesera",
+    "bio": "[284]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Pepe Julian Onziema",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pepe_Julian_Onziema",
+    "bio": "[285]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bogdan Globa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bogdan_Globa",
+    "bio": "[286]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Vitalina Koval",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vitalina_Koval",
+    "bio": "[287]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jeremy Bentham",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Bentham",
+    "bio": "19th-century jurist, philosopher, and legal and social reformer.[288]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bette Bourne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bette_Bourne",
+    "bio": "actor, performer, founder of the Gay theatrical troupe Bloolips, and one of the first modern-day UK LGBTQ+ activists and campaigners.[289]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michael C. Burgess",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_C._Burgess_(editor)",
+    "bio": "courier and co-treasurer of OutRage![290]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "OutRage!",
+    "wikipedia": "https://en.wikipedia.org/wiki/OutRage!",
+    "bio": "Michael C. Burgess, courier and co-treasurer of [290]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Christine Burns",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christine_Burns",
+    "bio": "trans rights campaigner, formerly a vice president of PfC, awarded MBE for work with PfC and on the GRB[291][292]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "PfC",
+    "wikipedia": "https://en.wikipedia.org/wiki/Press_for_Change",
+    "bio": "Christine Burns, trans rights campaigner, formerly a vice president of , awarded MBE for work with  and on the GRB[291][292]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "MBE",
+    "wikipedia": "https://en.wikipedia.org/wiki/Member_of_the_Most_Excellent_Order_of_the_British_Empire",
+    "bio": "Christine Burns, trans rights campaigner, formerly a vice president of PfC, awarded  for work with PfC and on the GRB[291][292]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "GRB",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gender_Recognition_Act",
+    "bio": "Christine Burns, trans rights campaigner, formerly a vice president of PfC, awarded MBE for work with PfC and on the [291][292]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tanya Compas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tanya_Compas",
+    "bio": "queer Black rights activist based in London[293][294]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "London",
+    "wikipedia": "https://en.wikipedia.org/wiki/London",
+    "bio": "Tanya Compas, queer Black rights activist based in [293][294]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "A.E. Dyson",
+    "wikipedia": "https://en.wikipedia.org/wiki/A.E._Dyson",
+    "bio": "literary critic and founder of the Homosexual Law Reform Society[295]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Homosexual Law Reform Society",
+    "wikipedia": "https://en.wikipedia.org/wiki/Homosexual_Law_Reform_Society",
+    "bio": "A.E. Dyson, literary critic and founder of the [295]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jackie Forster",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Forster",
+    "bio": "actress, TV personality and lesbian campaigner[296][297]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Moud Goba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moud_Goba",
+    "bio": "LGBTIQ+ human rights activist.[298]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ray Gosling",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Gosling",
+    "bio": "writer, broadcaster and gay rights activist in the Campaign for Homosexual Equality.[299]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Campaign for Homosexual Equality",
+    "wikipedia": "https://en.wikipedia.org/wiki/Campaign_for_Homosexual_Equality",
+    "bio": "Ray Gosling, writer, broadcaster and gay rights activist in the .[299]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Antony Grey",
+    "wikipedia": "https://en.wikipedia.org/wiki/Antony_Grey",
+    "bio": "Secretary of the Homosexual Law Reform Society; the public face of the Albany Trust[300][301]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Albany Trust",
+    "wikipedia": "https://en.wikipedia.org/wiki/Albany_Trust",
+    "bio": "Antony Grey, Secretary of the Homosexual Law Reform Society; the public face of the [300][301]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Liam Hackett",
+    "wikipedia": "https://en.wikipedia.org/wiki/Liam_Hackett",
+    "bio": "founder of anti-bullying website and charity Ditch the Label[302]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ditch the Label",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ditch_the_Label",
+    "bio": "Liam Hackett, founder of anti-bullying website and charity [302]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Derek Jarman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Jarman",
+    "bio": "film director[303]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Craig Jones (Royal Navy officer)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_Jones_(Royal_Navy_officer)",
+    "bio": "LGBTQ+ rights campaigner for the UK armed forces, founder of Fighting with Pride and author. [304][305] [1]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Paris Lees",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris_Lees",
+    "bio": "trans rights campaigner, part of Trans Media Watch[306]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Trans Media Watch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trans_Media_Watch",
+    "bio": "Paris Lees, trans rights campaigner, part of [306]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Denis Lemon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Lemon",
+    "bio": "Editor of Gay News, involved in blasphemy prosecution brought by Mary Whitehouse[307]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Andrew Moffat",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Moffat",
+    "bio": "LGBT education advocate, author and founder the No Outsiders programme[308][309]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ian McKellen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ian_McKellen",
+    "bio": "actor and spokesperson for Stonewall (UK)[297]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Stonewall (UK)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_(UK)",
+    "bio": "Ian McKellen, actor and spokesperson for [297]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Robert Mellors",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Mellors",
+    "bio": "20th-century writer and Gay Liberation Front campaigner[310]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gay Liberation Front",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gay_Liberation_Front",
+    "bio": "Robert Mellors, 20th-century writer and  campaigner[310]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Phyll Opoku-Gyimah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phyll_Opoku-Gyimah",
+    "bio": "British political activist and co-founder of UK Black Pride[311][312]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "UK Black Pride",
+    "wikipedia": "https://en.wikipedia.org/wiki/UK_Black_Pride",
+    "bio": "Phyll Opoku-Gyimah, British political activist and co-founder of [311][312]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Paul Patrick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Patrick",
+    "bio": "anti-homophobia activist and educator[313]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Saima Razzaq",
+    "wikipedia": "https://en.wikipedia.org/wiki/Saima_Razzaq",
+    "bio": "LGBT inclusive education activist and Birmingham Pride Head of Diversity and Inclusion[314][315]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Birmingham Pride",
+    "wikipedia": "https://en.wikipedia.org/wiki/Birmingham_Pride",
+    "bio": "Saima Razzaq, LGBT inclusive education activist and  Head of Diversity and Inclusion[314][315]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michael Schofield",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Schofield_(campaigner)",
+    "bio": "sociologist and early gay rights campaigner[316]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michael Steed",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Steed",
+    "bio": "Liberal politician, academic and gay rights activist in the Campaign for Homosexual Equality[317]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ben Summerskill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Summerskill",
+    "bio": "former chief executive of Stonewall[318]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Peter Tatchell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Tatchell",
+    "bio": "politician, human rights and LGBT rights campaigner[109][297][310]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Stephen Whittle",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Whittle",
+    "bio": "trans rights campaigner and former vice president of PfC and president of HBIGDA, Law Professor at MMU, awarded OBE for work with PfC and on the GRB[319]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "HBIGDA",
+    "wikipedia": "https://en.wikipedia.org/wiki/HBIGDA",
+    "bio": "Stephen Whittle, trans rights campaigner and former vice president of PfC and president of , Law Professor at MMU, awarded OBE for work with PfC and on the GRB[319]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "MMU",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manchester_Metropolitan_University",
+    "bio": "Stephen Whittle, trans rights campaigner and former vice president of PfC and president of HBIGDA, Law Professor at , awarded OBE for work with PfC and on the GRB[319]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "OBE",
+    "wikipedia": "https://en.wikipedia.org/wiki/OBE",
+    "bio": "Stephen Whittle, trans rights campaigner and former vice president of PfC and president of HBIGDA, Law Professor at MMU, awarded  for work with PfC and on the GRB[319]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Derek Williams (LGBT rights activist)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Williams_(LGBT_rights_activist)",
+    "bio": "co-founder of GaLTaS.[320]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "GaLTaS",
+    "wikipedia": "https://en.wikipedia.org/wiki/GaLTaS",
+    "bio": "Derek Williams (LGBT rights activist), co-founder of .[320]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kimball Allen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kimball_Allen",
+    "bio": "author of Secrets of a Gay Mormon Felon and Be Happy Be Mormon[321]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jacob Appel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_M._Appel",
+    "bio": "New York City-based lawyer, advocate for reparations for gays and lesbians[322]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "New York City",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_York_City",
+    "bio": "Jacob Appel, -based lawyer, advocate for reparations for gays and lesbians[322]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gilbert Baker",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gilbert_Baker_(artist)",
+    "bio": "(1951–2017), designer of the rainbow flag[323]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "rainbow flag",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rainbow_flag_(LGBT_movement)",
+    "bio": "Gilbert Baker (1951–2017), designer of the [323]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Christopher R. Barron",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christopher_R._Barron",
+    "bio": "co-founder of GOProud, a political organization representing gay conservatives[324]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "GOProud",
+    "wikipedia": "https://en.wikipedia.org/wiki/GOProud",
+    "bio": "Christopher R. Barron, co-founder of , a political organization representing gay conservatives[324]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "political organization",
+    "wikipedia": "https://en.wikipedia.org/wiki/Political_organisation",
+    "bio": "Christopher R. Barron, co-founder of GOProud, a  representing gay conservatives[324]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "gay conservatives",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gay_conservatives",
+    "bio": "Christopher R. Barron, co-founder of GOProud, a political organization representing [324]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Paul Barwick",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Barwick",
+    "bio": "[325]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Vic Basile",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vic_Basile",
+    "bio": "first executive director of the Human Rights Campaign[326]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign",
+    "bio": "Vic Basile, first executive director of the [326]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Wayne Besen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Besen",
+    "bio": "founder of Truth Wins Out, former spokesman for the Human Rights Campaign[327]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Truth Wins Out",
+    "wikipedia": "https://en.wikipedia.org/wiki/Truth_Wins_Out",
+    "bio": "Wayne Besen, founder of , former spokesman for the Human Rights Campaign[327]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign",
+    "bio": "Wayne Besen, founder of Truth Wins Out, former spokesman for the [327]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Elizabeth Birch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Birch",
+    "bio": "former executive director of the Human Rights Campaign[328]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign",
+    "bio": "Elizabeth Birch, former executive director of the [328]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dustin Lance Black",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dustin_Lance_Black",
+    "bio": "founding board member of the American Foundation for Equal Rights[329]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "American Foundation for Equal Rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Foundation_for_Equal_Rights",
+    "bio": "Dustin Lance Black, founding board member of the [329]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Chaz Bono",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chaz_Bono",
+    "bio": "transgender son of Sonny Bono and Cher[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sonny Bono",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sonny_Bono",
+    "bio": "Chaz Bono, transgender son of  and Cher[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Cher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cher",
+    "bio": "Chaz Bono, transgender son of Sonny Bono and [330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jennifer Finney Boylan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Finney_Boylan",
+    "bio": "(1958 - ), transgender author, professor, and trans rights activist, former co-chair of GLAAD's National Board of Directors.[331]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "GLAAD",
+    "wikipedia": "https://en.wikipedia.org/wiki/GLAAD",
+    "bio": "Jennifer Finney Boylan (1958 - ), transgender author, professor, and trans rights activist, former co-chair of 's National Board of Directors.[331]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "David P. Brill",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_P._Brill",
+    "bio": "(1955–1979), Boston-based journalist[332]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Boston",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boston",
+    "bio": "David P. Brill (1955–1979), -based journalist[332]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Blake Brockington",
+    "wikipedia": "https://en.wikipedia.org/wiki/Blake_Brockington",
+    "bio": "(1996–2014), African American transgender rights activist.[333]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jenny Bruso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jenny_Bruso",
+    "bio": "hiker, influencer, and an activist for inclusivity and body positivity[334]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Judith Butler",
+    "wikipedia": "https://en.wikipedia.org/wiki/Judith_Butler",
+    "bio": "philosopher and gender theorist[335]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Margarethe Cammermeyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Margarethe_Cammermeyer",
+    "bio": "former colonel in the Washington National Guard whose coming out story was made into the 1995 movie Serving in Silence[336][337]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "colonel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Colonel",
+    "bio": "Margarethe Cammermeyer, former  in the Washington National Guard whose coming out story was made into the 1995 movie Serving in Silence[336][337]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Washington National Guard",
+    "wikipedia": "https://en.wikipedia.org/wiki/United_States_National_Guard",
+    "bio": "Margarethe Cammermeyer, former colonel in the  whose coming out story was made into the 1995 movie Serving in Silence[336][337]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gloria Casarez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gloria_Casarez",
+    "bio": "(1971–2014), Latina lesbian civil rights leader and LGBT activist in Philadelphia. Philadelphia's first director of lesbian, gay, bisexual and transgender (LGBT) affairs",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ryan Cassata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Cassata",
+    "bio": "transgender activist, public speaker and singer-songwriter[338]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "June Chan",
+    "wikipedia": "https://en.wikipedia.org/wiki/June_Chan",
+    "bio": "Asian American lesbian activist[339]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "RuPaul Andre Charles",
+    "wikipedia": "https://en.wikipedia.org/wiki/RuPaul",
+    "bio": "known as RuPaul, drag queen and gay activist known for the TV show RuPaul's Drag Race[340]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Madonna Louise Ciccone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madonna_(entertainer)",
+    "bio": "known as Madonna (born 1958), entertainer and long-term human and civil rights activist; has offered outspoken support for the gay rights movement[341]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Madonna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madonna_(entertainer)",
+    "bio": "Louise Ciccone, known as  (born 1958), entertainer and long-term human and civil rights activist; has offered outspoken support for the gay rights movement[341]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Joanne Conte",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joanne_Conte",
+    "bio": "trans woman, former Arvada, Colorado City Councilor, currently hosts a radio show on KGNU[342]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "trans woman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trans_woman",
+    "bio": "Joanne Conte, , former Arvada, Colorado City Councilor, currently hosts a radio show on KGNU[342]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Arvada, Colorado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arvada,_Colorado",
+    "bio": "Joanne Conte, trans woman, former  City Councilor, currently hosts a radio show on KGNU[342]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "KGNU",
+    "wikipedia": "https://en.wikipedia.org/wiki/KGNU",
+    "bio": "Joanne Conte, trans woman, former Arvada, Colorado City Councilor, currently hosts a radio show on [342]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lynn Conway",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lynn_Conway",
+    "bio": "trans woman computer scientist and electrical engineer[343]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ruby Corado",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruby_Corado",
+    "bio": "Salvadoran activist and founder of Casa Ruby[344]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "James Dale",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Dale_(activist)",
+    "bio": "known for landmark US Supreme Court case Boy Scouts of America v. Dale (2000) that challenged the Boy Scouts of America policy of excluding gay youth and adults[345]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Boy Scouts of America v. Dale (2000)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Boy_Scouts_of_America_v._Dale",
+    "bio": "James Dale, known for landmark US Supreme Court case  that challenged the Boy Scouts of America policy of excluding gay youth and adults[345]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alphonso David",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alphonso_David",
+    "bio": "(born 1970), the first person of color to serve as president for the Human Rights Campaign, as of August 2019, served as a staff attorney for Lambda Legal where he worked on New York State's first same-sex marriage case, Hernandez v. Robles[346] also the Former Deputy Secretary and Counsel for Civil Rights for New York State under Andrew Cuomo",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign",
+    "bio": "Alphonso David (born 1970), the first person of color to serve as president for the , as of August 2019, served as a staff attorney for Lambda Legal where he worked on New York State's first same-sex marriage case, Hernandez v. Robles[346] also the Former Deputy Secretary and Counsel for Civil Rights for New York State under Andrew Cuomo",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lambda Legal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lambda_Legal",
+    "bio": "Alphonso David (born 1970), the first person of color to serve as president for the Human Rights Campaign, as of August 2019, served as a staff attorney for  where he worked on New York State's first same-sex marriage case, Hernandez v. Robles[346] also the Former Deputy Secretary and Counsel for Civil Rights for New York State under Andrew Cuomo",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "New York State's",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_York_State%27s",
+    "bio": "Alphonso David (born 1970), the first person of color to serve as president for the Human Rights Campaign, as of August 2019, served as a staff attorney for Lambda Legal where he worked on  first same-sex marriage case, Hernandez v. Robles[346] also the Former Deputy Secretary and Counsel for Civil Rights for New York State under Andrew Cuomo",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "New York State",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_York_State",
+    "bio": "Alphonso David (born 1970), the first person of color to serve as president for the Human Rights Campaign, as of August 2019, served as a staff attorney for Lambda Legal where he worked on 's first same-sex marriage case, Hernandez v. Robles[346] also the Former Deputy Secretary and Counsel for Civil Rights for  under Andrew Cuomo",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Andrew Cuomo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Cuomo",
+    "bio": "Alphonso David (born 1970), the first person of color to serve as president for the Human Rights Campaign, as of August 2019, served as a staff attorney for Lambda Legal where he worked on New York State's first same-sex marriage case, Hernandez v. Robles[346] also the Former Deputy Secretary and Counsel for Civil Rights for New York State under",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ellen DeGeneres",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ellen_DeGeneres",
+    "bio": "(26 January 1958, Metairie, Louisiana), comedian, television host, actress, writer, producer, and LGBT activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Metairie, Louisiana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Metairie,_Louisiana",
+    "bio": "Ellen DeGeneres (26 January 1958, ), comedian, television host, actress, writer, producer, and LGBT activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Stephen Donaldson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Donaldson_(activist)",
+    "bio": "(1946–1996), early bisexual LGBT rights activist founder of the first American gay students' organization,[347] first person to fight a discharge from the U.S. military for homosexuality,[330][348][349] also an important figure in the modern bisexual rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "bisexual",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bisexual",
+    "bio": "Stephen Donaldson (1946–1996), early  LGBT rights activist founder of the first American gay students' organization,[347] first person to fight a discharge from the U.S. military for homosexuality,[330][348][349] also an important figure in the modern  rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBT rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBT_rights",
+    "bio": "Stephen Donaldson (1946–1996), early bisexual  activist founder of the first American gay students' organization,[347] first person to fight a discharge from the U.S. military for homosexuality,[330][348][349] also an important figure in the modern bisexual rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "activist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Activism",
+    "bio": "Stephen Donaldson (1946–1996), early bisexual LGBT rights  founder of the first American gay students' organization,[347] first person to fight a discharge from the U.S. military for homosexuality,[330][348][349] also an important figure in the modern bisexual rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "bisexual rights movement",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bisexual_community",
+    "bio": "Stephen Donaldson (1946–1996), early bisexual LGBT rights activist founder of the first American gay students' organization,[347] first person to fight a discharge from the U.S. military for homosexuality,[330][348][349] also an important figure in the modern",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Julie Dorf",
+    "wikipedia": "https://en.wikipedia.org/wiki/Julie_Dorf",
+    "bio": "(born 1965, Milwaukee, Wisconsin), international LGBT human rights advocate and founder of OutRight Action International[350]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "OutRight Action International",
+    "wikipedia": "https://en.wikipedia.org/wiki/OutRight_Action_International",
+    "bio": "Julie Dorf (born 1965, Milwaukee, Wisconsin), international LGBT human rights advocate and founder of [350]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Fran Drescher",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran_Drescher",
+    "bio": "(born 1957, Flushing, New York), outspoken healthcare advocate and LGBT rights activist.[351]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mason J. Dunn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mason_J._Dunn",
+    "bio": "(born 1985), lawyer, educator, and LGBTQ+ rights advocate based in Massachusetts.[352]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "John Duran",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Duran",
+    "bio": "[353]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sarah Kate Ellis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Kate_Ellis",
+    "bio": "(born 1971), President & CEO of GLAAD.[354]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "GLAAD",
+    "wikipedia": "https://en.wikipedia.org/wiki/GLAAD",
+    "bio": "Sarah Kate Ellis (born 1971), President & CEO of .[354]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Steve Endean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Steve_Endean",
+    "bio": "(1948–1993), founder of the Human Rights Campaign Fund[355][356]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign Fund",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign_Fund",
+    "bio": "Steve Endean, (1948–1993), founder of the [355][356]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Arden Eversmeyer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arden_Eversmeyer",
+    "bio": "(born 1931), Founder of Lesbians Over Age Fifty (LOAF) and the Old Lesbian Oral Herstory Project (OLOHP)[357]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Matt Foreman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Matt_Foreman_(gay_rights_activist)",
+    "bio": "(born 1953), executive director of the National Gay and Lesbian Task Force (NGLTF)[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "National Gay and Lesbian Task Force",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_Gay_and_Lesbian_Task_Force",
+    "bio": "Matt Foreman (born 1953), executive director of the  (NGLTF)[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Barney Frank",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barney_Frank",
+    "bio": "(born 1940), member of the Democratic Party who served as a member of Congress from Massachusetts from 1981 to 2013[358][359]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Democratic Party",
+    "wikipedia": "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+    "bio": "Barney Frank (born 1940), member of the  who served as a member of Congress from Massachusetts from 1981 to 2013[358][359]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Congress",
+    "wikipedia": "https://en.wikipedia.org/wiki/Congress_of_the_United_States",
+    "bio": "Barney Frank (born 1940), member of the Democratic Party who served as a member of  from Massachusetts from 1981 to 2013[358][359]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Massachusetts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Massachusetts",
+    "bio": "Barney Frank (born 1940), member of the Democratic Party who served as a member of Congress from  from 1981 to 2013[358][359]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Aaron Fricke",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Fricke",
+    "bio": "(born 1962), sued the Cumberland, Rhode Island school system in 1980 and won a landmark First Amendment case granting him the legal right to attend prom with another boy,[330] an experience he chronicled in the gay coming-of-age memoir Reflections of a Rock Lobster",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Cumberland, Rhode Island",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cumberland,_Rhode_Island",
+    "bio": "Aaron Fricke (born 1962), sued the  school system in 1980 and won a landmark First Amendment case granting him the legal right to attend prom with another boy,[330] an experience he chronicled in the gay coming-of-age memoir Reflections of a Rock Lobster",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lady Gaga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lady_Gaga",
+    "bio": "bisexual singer/songwriter who campaigned for the DADT repeal; released pro-gay anthem \"Born This Way\" (2011)[360]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "bisexual",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bisexual",
+    "bio": "Lady Gaga,  singer/songwriter who campaigned for the DADT repeal; released pro-gay anthem \"Born This Way\" (2011)[360]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "DADT",
+    "wikipedia": "https://en.wikipedia.org/wiki/Don%27t_ask,_don%27t_tell",
+    "bio": "Lady Gaga, bisexual singer/songwriter who campaigned for the  repeal; released pro-gay anthem \"Born This Way\" (2011)[360]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "\"Born This Way\"",
+    "wikipedia": "https://en.wikipedia.org/wiki/Born_This_Way_(song)",
+    "bio": "Lady Gaga, bisexual singer/songwriter who campaigned for the DADT repeal; released pro-gay anthem  (2011)[360]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Allen Ginsberg",
+    "wikipedia": "https://en.wikipedia.org/wiki/Allen_Ginsberg",
+    "bio": "(1926–1997), Beat poet and political activist.[361]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Barbara Gittings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Gittings",
+    "bio": "(1932–2007), founder of the New York City chapter of the Daughters of Bilitis who also pushed for the American Psychological Association to remove homosexuality from its list of mental disorders in the Diagnostic and Statistical Manual of Mental Disorders (DSM).[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Daughters of Bilitis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daughters_of_Bilitis",
+    "bio": "Barbara Gittings (1932–2007), founder of the New York City chapter of the  who also pushed for the American Psychological Association to remove homosexuality from its list of mental disorders in the Diagnostic and Statistical Manual of Mental Disorders (DSM).[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "American Psychological Association",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Psychological_Association",
+    "bio": "Barbara Gittings (1932–2007), founder of the New York City chapter of the Daughters of Bilitis who also pushed for the  to remove homosexuality from its list of mental disorders in the Diagnostic and Statistical Manual of Mental Disorders (DSM).[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Diagnostic and Statistical Manual of Mental Disorders (DSM)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders",
+    "bio": "Barbara Gittings (1932–2007), founder of the New York City chapter of the Daughters of Bilitis who also pushed for the American Psychological Association to remove homosexuality from its list of mental disorders in the .[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Neil Giuliano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Neil_Giuliano",
+    "bio": "[362]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Alexander John Goodrum",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_John_Goodrum",
+    "bio": "(1960–2002) was an African-American transgender civil rights activist[363]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "African-American",
+    "wikipedia": "https://en.wikipedia.org/wiki/African-American",
+    "bio": "Alexander John Goodrum (1960–2002) was an  transgender civil rights activist[363]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "transgender",
+    "wikipedia": "https://en.wikipedia.org/wiki/Transgender",
+    "bio": "Alexander John Goodrum (1960–2002) was an African-American  civil rights activist[363]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "civil rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/Civil_rights",
+    "bio": "Alexander John Goodrum (1960–2002) was an African-American transgender  activist[363]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "activist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Activism",
+    "bio": "Alexander John Goodrum (1960–2002) was an African-American transgender civil rights [363]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Chad Griffin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chad_Griffin",
+    "bio": "(born 1973), Former president of the Human Rights Campaign as of June 11, 2012[update], and founder of American Foundation for Equal Rights, a nonprofit organization that supports the plaintiffs in the California Proposition 8 trial[364][365][366][367]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign",
+    "bio": "Chad Griffin (born 1973), Former president of the  as of June 11, 2012[update], and founder of American Foundation for Equal Rights, a nonprofit organization that supports the plaintiffs in the California Proposition 8 trial[364][365][366][367]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "American Foundation for Equal Rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Foundation_for_Equal_Rights",
+    "bio": "Chad Griffin (born 1973), Former president of the Human Rights Campaign as of June 11, 2012[update], and founder of , a nonprofit organization that supports the plaintiffs in the California Proposition 8 trial[364][365][366][367]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "California Proposition 8 trial",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perry_v._Brown",
+    "bio": "Chad Griffin (born 1973), Former president of the Human Rights Campaign as of June 11, 2012[update], and founder of American Foundation for Equal Rights, a nonprofit organization that supports the plaintiffs in the [364][365][366][367]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "James Gruber",
+    "wikipedia": "https://en.wikipedia.org/wiki/James_Gruber",
+    "bio": "(1928–2011), original member of the Mattachine Society[368]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mattachine Society",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mattachine_Society",
+    "bio": "James Gruber (1928–2011), original member of the [368]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Hardy Haberman",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hardy_Haberman",
+    "bio": "author, filmmaker, prominent member of the Leather/Fetish/BDSM community, and activist involved in founding of first LGBT group in Dallas, TX[369]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "David M. Hall",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_M._Hall",
+    "bio": "author of Allies at Work: Creating a Lesbian, Gay, Bisexual and Transgender Inclusive Work Environment, speaks to corporate audiences across the country, co-founder of Out & Equal Philadelphia.[370]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Out & Equal",
+    "wikipedia": "https://en.wikipedia.org/wiki/Out_%26_Equal",
+    "bio": "David M. Hall, author of Allies at Work: Creating a Lesbian, Gay, Bisexual and Transgender Inclusive Work Environment, speaks to corporate audiences across the country, co-founder of  Philadelphia.[370]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Harry Hay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Hay",
+    "bio": "(1912–2002), co-founder of the Mattachine Society[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mattachine Society",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mattachine_Society",
+    "bio": "Harry Hay (1912–2002), co-founder of the [330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "John Heilman",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Heilman",
+    "bio": "[371]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Essex Hemphill",
+    "wikipedia": "https://en.wikipedia.org/wiki/Essex_Hemphill",
+    "bio": "(1957–1995), African American poet[372][373]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Daniel Hernandez Jr.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Hernandez_Jr.",
+    "bio": "(born 1990), member of Tucson's city commission on gay, lesbian, bisexual and transgender issues, who was credited with saving the life of U.S. Representative Gabby Giffords after the 2011 Tucson shooting[374]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gabby Giffords",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gabby_Giffords",
+    "bio": "Daniel Hernandez Jr. (born 1990), member of Tucson's city commission on gay, lesbian, bisexual and transgender issues, who was credited with saving the life of U.S. Representative  after the 2011 Tucson shooting[374]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2011 Tucson shooting",
+    "wikipedia": "https://en.wikipedia.org/wiki/2011_Tucson_shooting",
+    "bio": "Daniel Hernandez Jr. (born 1990), member of Tucson's city commission on gay, lesbian, bisexual and transgender issues, who was credited with saving the life of U.S. Representative Gabby Giffords after the [374]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Brenda Howard",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brenda_Howard",
+    "bio": "(1946–2005), bisexual LGBT rights activist, an instrumental figure in the immediate post-Stonewall era in New York City,[310][330] also an important figure in the modern bisexual rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "bisexual",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bisexual",
+    "bio": "Brenda Howard (1946–2005),  LGBT rights activist, an instrumental figure in the immediate post-Stonewall era in New York City,[310][330] also an important figure in the modern  rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBT rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBT_rights",
+    "bio": "Brenda Howard (1946–2005), bisexual  activist, an instrumental figure in the immediate post-Stonewall era in New York City,[310][330] also an important figure in the modern bisexual rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "activist",
+    "wikipedia": "https://en.wikipedia.org/wiki/Activism",
+    "bio": "Brenda Howard (1946–2005), bisexual LGBT rights , an instrumental figure in the immediate post-Stonewall era in New York City,[310][330] also an important figure in the modern bisexual rights movement",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "bisexual rights movement",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bisexual_community",
+    "bio": "Brenda Howard (1946–2005), bisexual LGBT rights activist, an instrumental figure in the immediate post-Stonewall era in New York City,[310][330] also an important figure in the modern",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "John Paul Hudson",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Paul_Hudson",
+    "bio": "(1929–2002), activist, journalist, actor, and author; helped organize NYC's first gay pride parade following the Stonewall riots, serving as the parade's first grand marshal[375]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sally Huffer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Huffer",
+    "bio": "(born 1965), board member of multiple LGBT non profit organizations[376]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Richard Isay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Isay",
+    "bio": "(1934–2012)[377]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Cheryl Jacques",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cheryl_Jacques",
+    "bio": "(born 1962), former member of the Massachusetts State Legislature and the president of the Human Rights Campaign from January through November 2004. She resigned from this post less than a month after the passage of 11 state constitutional amendments banning gay marriage.[378][379]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Massachusetts State Legislature",
+    "wikipedia": "https://en.wikipedia.org/wiki/Massachusetts_State_Legislature",
+    "bio": "Cheryl Jacques (born 1962), former member of the  and the president of the Human Rights Campaign from January through November 2004. She resigned from this post less than a month after the passage of 11 state constitutional amendments banning gay marriage.[378][379]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign",
+    "bio": "Cheryl Jacques (born 1962), former member of the Massachusetts State Legislature and the president of the  from January through November 2004. She resigned from this post less than a month after the passage of 11 state constitutional amendments banning gay marriage.[378][379]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Helen G. James",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helen_G._James",
+    "bio": "[380]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dale Jennings",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dale_Jennings_(activist)",
+    "bio": "(1917–2000), co-founder of the Mattachine Society[381][382]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Mattachine Society",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mattachine_Society",
+    "bio": "Dale Jennings (1917–2000), co-founder of the [381][382]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Marsha P. Johnson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marsha_P._Johnson",
+    "bio": "(1945–1992)[383]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Cleve Jones",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cleve_Jones",
+    "bio": "(born 1954), conceived the NAMES Project AIDS Memorial Quilt and worked with Harvey Milk; co-founded the San Francisco AIDS Foundation[384][385]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "NAMES Project AIDS Memorial Quilt",
+    "wikipedia": "https://en.wikipedia.org/wiki/NAMES_Project_AIDS_Memorial_Quilt",
+    "bio": "Cleve Jones (born 1954), conceived the  and worked with Harvey Milk; co-founded the San Francisco AIDS Foundation[384][385]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "San Francisco AIDS Foundation",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Francisco_AIDS_Foundation",
+    "bio": "Cleve Jones (born 1954), conceived the NAMES Project AIDS Memorial Quilt and worked with Harvey Milk; co-founded the [384][385]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Christine Jorgensen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Christine_Jorgensen",
+    "bio": "(1926–1989), first person to become widely known for having sex reassignment surgery in the United States[386]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Frank Kameny",
+    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_E._Kameny",
+    "bio": "(1925–2011), participant in many gay rights rallies of the 1960s and 1970s, most notably the push in 1972–1973 for the American Psychological Association to remove homosexuality from its list of mental disorders in the Diagnostic and Statistical Manual of Mental Disorders (DSM)[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "American Psychological Association",
+    "wikipedia": "https://en.wikipedia.org/wiki/American_Psychological_Association",
+    "bio": "Frank Kameny (1925–2011), participant in many gay rights rallies of the 1960s and 1970s, most notably the push in 1972–1973 for the  to remove homosexuality from its list of mental disorders in the Diagnostic and Statistical Manual of Mental Disorders (DSM)[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "(DSM)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders",
+    "bio": "Frank Kameny (1925–2011), participant in many gay rights rallies of the 1960s and 1970s, most notably the push in 1972–1973 for the American Psychological Association to remove homosexuality from its list of mental disorders in the Diagnostic and Statistical Manual of Mental Disorders [330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Norm Kent",
+    "wikipedia": "https://en.wikipedia.org/wiki/Norm_Kent",
+    "bio": "[387]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Morris Kight",
+    "wikipedia": "https://en.wikipedia.org/wiki/Morris_Kight",
+    "bio": "(1919–2003), founder of Los Angeles' Gay and Lesbian Front and Los Angeles Gay and Lesbian Center[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Los Angeles Gay and Lesbian Center",
+    "wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles_Gay_and_Lesbian_Center",
+    "bio": "Morris Kight (1919–2003), founder of Los Angeles' Gay and Lesbian Front and [330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lisa Kove",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisa_Kove",
+    "bio": "(born 1958), executive director of the Department of Defense Federal Globe and President of Empowering Spirits Foundation[388]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Empowering Spirits Foundation",
+    "wikipedia": "https://en.wikipedia.org/wiki/Empowering_Spirits_Foundation",
+    "bio": "Lisa Kove (born 1958), executive director of the Department of Defense Federal Globe and President of [388]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Larry Kramer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Kramer",
+    "bio": "(1935–2020), author and playwright who helped form the prominent gay rights organizations Gay Men's Health Crisis and AIDS Coalition to Unleash Power (ACT-UP)[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gay Men's Health Crisis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gay_Men%27s_Health_Crisis",
+    "bio": "Larry Kramer (1935–2020), author and playwright who helped form the prominent gay rights organizations  and AIDS Coalition to Unleash Power (ACT-UP)[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "AIDS Coalition to Unleash Power (ACT-UP)",
+    "wikipedia": "https://en.wikipedia.org/wiki/AIDS_Coalition_to_Unleash_Power",
+    "bio": "Larry Kramer (1935–2020), author and playwright who helped form the prominent gay rights organizations Gay Men's Health Crisis and [330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kiyoshi Kuromiya",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kiyoshi_Kuromiya",
+    "bio": "(1943–2000), author and civil rights, anti-war, gay liberation, and HIV/AIDS activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "civil rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/Civil_rights",
+    "bio": "Kiyoshi Kuromiya (1943–2000), author and , anti-war, gay liberation, and HIV/AIDS activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "anti-war",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anti-war",
+    "bio": "Kiyoshi Kuromiya (1943–2000), author and civil rights, , gay liberation, and HIV/AIDS activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "gay liberation",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gay_liberation",
+    "bio": "Kiyoshi Kuromiya (1943–2000), author and civil rights, anti-war, , and HIV/AIDS activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "HIV/AIDS",
+    "wikipedia": "https://en.wikipedia.org/wiki/HIV/AIDS",
+    "bio": "Kiyoshi Kuromiya (1943–2000), author and civil rights, anti-war, gay liberation, and  activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Janice Langbehn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Janice_Langbehn",
+    "bio": "(born 1968), campaigner for same-sex marriage and same-sex hospital visitation after being denied access to her dying partner, Lisa Marie Pond, in 2007[389]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Cyndi Lauper",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyndi_Lauper",
+    "bio": "(born 1953), founder of the True Colors Fund charity which promotes equality for members of the LGBT community[390]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Malcolm L. Lazin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_L._Lazin",
+    "bio": "[391]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Audre Lorde",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audre_Lorde",
+    "bio": "[392]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Courtney Love",
+    "wikipedia": "https://en.wikipedia.org/wiki/Courtney_Love",
+    "bio": "(born 1964), a musician and singer, has advocated for LGBT rights and acceptance since the beginning of her career in the early 1990s[393][394][395][396]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Scott Long",
+    "wikipedia": "https://en.wikipedia.org/wiki/Scott_Long_(human_rights_activist)",
+    "bio": "(born 1963), executive director of the Lesbian, Gay, Bisexual, and Transgender Rights Program at Human Rights Watch.[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Watch",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Watch",
+    "bio": "Scott Long (born 1963), executive director of the Lesbian, Gay, Bisexual, and Transgender Rights Program at .[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Phyllis Lyon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Del_Martin_and_Phyllis_Lyon",
+    "bio": "(1924–2020), lesbian activist who co-founded the Daughters of Bilitis with longtime partner Del Martin[397]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Daughters of Bilitis",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daughters_of_Bilitis",
+    "bio": "Phyllis Lyon (1924–2020), lesbian activist who co-founded the  with longtime partner Del Martin[397]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Del Martin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Del_Martin_and_Phyllis_Lyon",
+    "bio": "(1921–2008), lesbian activist who co-founded the Daughters of Bilitis with longtime partner Phyllis Lyon[397]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tim McFeeley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tim_McFeeley",
+    "bio": "[398]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Aldyn Mckean",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aldyn_Mckean",
+    "bio": "singer and gay rights/AIDS activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Harvey Milk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harvey_Milk",
+    "bio": "(1930–1978), openly gay city supervisor of San Francisco, California who was assassinated (along with mayor George Moscone) in 1978 by Dan White[310][330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "city supervisor",
+    "wikipedia": "https://en.wikipedia.org/wiki/City_supervisor",
+    "bio": "Harvey Milk (1930–1978), openly gay  of San Francisco, California who was assassinated (along with mayor George Moscone) in 1978 by Dan White[310][330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "San Francisco, California",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Francisco,_California",
+    "bio": "Harvey Milk (1930–1978), openly gay city supervisor of  who was assassinated (along with mayor George Moscone) in 1978 by Dan White[310][330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "George Moscone",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Moscone",
+    "bio": "Harvey Milk (1930–1978), openly gay city supervisor of San Francisco, California who was assassinated (along with mayor ) in 1978 by Dan White[310][330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dan White",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dan_White",
+    "bio": "Harvey Milk (1930–1978), openly gay city supervisor of San Francisco, California who was assassinated (along with mayor George Moscone) in 1978 by [310][330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "David Nelson",
+    "wikipedia": "https://en.wikipedia.org/wiki/David_Nelson_(Utah_activist)",
+    "bio": "(born 1962), founder of Gay and Lesbian Utah Democrats,[399] and Stonewall Shooting Sports of Utah.[400]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gay and Lesbian Utah Democrats",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gay_and_Lesbian_Utah_Democrats",
+    "bio": "David Nelson (born 1962), founder of ,[399] and Stonewall Shooting Sports of Utah.[400]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Stonewall Shooting Sports of Utah",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_Shooting_Sports_of_Utah",
+    "bio": "David Nelson (born 1962), founder of Gay and Lesbian Utah Democrats,[399] and .[400]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jack Nichols",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Nichols_(activist)",
+    "bio": "(1937–2005), journalist, writer, activist and co-founder of the Mattachine Society of Washington, D.C., with Frank Kameny",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Barbara Noda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Noda",
+    "bio": "advocates for LGBT rights in the San Francisco Bay Area[401]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tyler Oakley",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyler_Oakley",
+    "bio": "[402]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Romaine Patterson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Romaine_Patterson",
+    "bio": "(1978–), lesbian talk show host and founder of Angel Action[403]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Troy Perry",
+    "wikipedia": "https://en.wikipedia.org/wiki/Troy_Perry",
+    "bio": "[404]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Charles Pitts",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Pitts",
+    "bio": "[405]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sylvia Rivera",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sylvia_Rivera",
+    "bio": "[406]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Brandan Robertson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brandan_Robertson",
+    "bio": "[407]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Geena Rocero",
+    "wikipedia": "https://en.wikipedia.org/wiki/Geena_Rocero",
+    "bio": "[408]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Craig Rodwell",
+    "wikipedia": "https://en.wikipedia.org/wiki/Craig_Rodwell",
+    "bio": "[409]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Abby Rubenfeld",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abby_Rubenfeld",
+    "bio": "[410]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Vito Russo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vito_Russo",
+    "bio": "[411]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bayard Rustin",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bayard_Rustin",
+    "bio": "(1912–1987), openly gay civil rights activist, principal organizer and co-leader of the 1963 March on Washington for Jobs and Freedom and advisor to Martin Luther King Jr.; gay rights activist in later life[412]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "civil rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/Civil_rights",
+    "bio": "Bayard Rustin (1912–1987), openly gay  activist, principal organizer and co-leader of the 1963 March on Washington for Jobs and Freedom and advisor to Martin Luther King Jr.; gay rights activist in later life[412]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "March on Washington for Jobs and Freedom",
+    "wikipedia": "https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom",
+    "bio": "Bayard Rustin (1912–1987), openly gay civil rights activist, principal organizer and co-leader of the 1963  and advisor to Martin Luther King Jr.; gay rights activist in later life[412]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Martin Luther King Jr.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+    "bio": "Bayard Rustin (1912–1987), openly gay civil rights activist, principal organizer and co-leader of the 1963 March on Washington for Jobs and Freedom and advisor to ; gay rights activist in later life[412]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ryan Sallans",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryan_Sallans",
+    "bio": "(born 1979), out trans man and public speaker – travels around US educating high school and college students on LGBT issues[413]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "trans man",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trans_man",
+    "bio": "Ryan Sallans (born 1979), out  and public speaker – travels around US educating high school and college students on LGBT issues[413]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Graciela Sanchez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Graciela_Sanchez",
+    "bio": "(born 1960), American social justice activist and founder of the Esperanza Peace and Justice Center[414]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Esperanza Peace and Justice Center",
+    "wikipedia": "https://en.wikipedia.org/wiki/Esperanza_Peace_and_Justice_Center",
+    "bio": "Graciela Sanchez (born 1960), American social justice activist and founder of the [414]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "José Sarria",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jos%C3%A9_Sarria",
+    "bio": "(born 1922 or 1923), first openly gay candidate for political office in the United States,[415] founder of the Imperial Court System[416]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Imperial Court System",
+    "wikipedia": "https://en.wikipedia.org/wiki/Imperial_Court_System",
+    "bio": "José Sarria (born 1922 or 1923), first openly gay candidate for political office in the United States,[415] founder of the [416]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tully Satre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tully_Satre",
+    "bio": "[417]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Dan Savage",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dan_Savage",
+    "bio": "[418]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Richard L. Schlegel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Richard_L._Schlegel",
+    "bio": "(1927–2006), Pennsylvania activist whose wrongful termination suit is considered an early landmark case for gay rights.[419]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Josh Seefried",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josh_Seefried",
+    "bio": "United States Air Force first lieutenant and co-director of OutServe, the association of actively serving LGBT military",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "OutServe",
+    "wikipedia": "https://en.wikipedia.org/wiki/OutServe-SLDN",
+    "bio": "Josh Seefried, United States Air Force first lieutenant and co-director of , the association of actively serving LGBT military",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Drew Shafer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Drew_Shafer",
+    "bio": "(1936–1989), gay activist from Kansas City, Missouri, known for bringing the homophile movement to KC, and publishing The Phoenix: Midwest Homophile Voice.[420]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kansas City, Missouri",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kansas_City,_Missouri",
+    "bio": "Drew Shafer (1936–1989), gay activist from , known for bringing the homophile movement to KC, and publishing The Phoenix: Midwest Homophile Voice.[420]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "homophile movement",
+    "wikipedia": "https://en.wikipedia.org/wiki/Homophile_movement",
+    "bio": "Drew Shafer (1936–1989), gay activist from Kansas City, Missouri, known for bringing the  to KC, and publishing The Phoenix: Midwest Homophile Voice.[420]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Michelangelo Signorile",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michelangelo_Signorile",
+    "bio": "[421]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Charles Silverstein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Silverstein",
+    "bio": "(1935–2023), gay psychologist who was the founder of the Journal of Homosexuality and key in testifying against the classification of homosexuality as a mental disorder.[422][423]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ruth Simpson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruth_Simpson_(activist)",
+    "bio": "(1926–2008), founder of the first lesbian community center, former President of Daughters of Bilitis New York, author of From the Closet to the Courts[330]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Nadine Smith",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nadine_Smith",
+    "bio": "(born 1965), LGBTQ+ rights activist",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Joe Solmonese",
+    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Solmonese",
+    "bio": "(born 1965), former political fundraiser and past president of the Human Rights Campaign[424]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Human Rights Campaign",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Rights_Campaign",
+    "bio": "Joe Solmonese (born 1965), former political fundraiser and past president of the [424]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "A. Latham Staples",
+    "wikipedia": "https://en.wikipedia.org/wiki/A._Latham_Staples",
+    "bio": "(born 1977), founder and Chairman of the Empowering Spirits Foundation, current President & CEO of EXUSMED, Inc.[425][426]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Empowering Spirits Foundation",
+    "wikipedia": "https://en.wikipedia.org/wiki/Empowering_Spirits_Foundation",
+    "bio": "A. Latham Staples (born 1977), founder and Chairman of the , current President & CEO of EXUSMED, Inc.[425][426]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Abby Stein",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abby_Stein",
+    "bio": "(born 1991), advocate for transgender people of Orthodox Jewish background[427]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Orthodox Jewish",
+    "wikipedia": "https://en.wikipedia.org/wiki/Orthodox_Judaism",
+    "bio": "Abby Stein (born 1991), advocate for transgender people of  background[427]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lou Sullivan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lou_Sullivan",
+    "bio": "[428]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Andy Thayer",
+    "wikipedia": "https://en.wikipedia.org/wiki/Andy_Thayer",
+    "bio": "co-founder of the Gay Liberation Network[429]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gay Liberation Network",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gay_Liberation_Network",
+    "bio": "Andy Thayer, co-founder of the [429]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Urvashi Vaid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Urvashi_Vaid",
+    "bio": "(1958–2022), Indian-American activist who has worked for over 25 years promoting civil rights for gay, lesbian, bisexual and transgender persons.[330][430]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Elisha Wiesel",
+    "wikipedia": "https://en.wikipedia.org/wiki/Elisha_Wiesel",
+    "bio": "(born 1972), hedge fund manager and activist[431]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Phill Wilson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phill_Wilson",
+    "bio": "(born 1956, Chicago, Illinois), co-founder of the National Black Lesbian & Gay Leadership Forum and founder of The Black AIDS Institute.[432][433]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Evan Wolfson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Evan_Wolfson",
+    "bio": "[434][435]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "William E. Woods",
+    "wikipedia": "https://en.wikipedia.org/wiki/William_E._Woods",
+    "bio": "(1949–2008), a gay rights activist in Hawaii who in 1991 set in motion the legalization of same-sex marriage in the United States.[436]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Chely Wright",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chely_Wright",
+    "bio": "[437]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Delfina Martínez",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delfina_Mart%C3%ADnez",
+    "bio": "[438]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Marcela Pini",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marcela_Pini",
+    "bio": "[439]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tamara Adrián",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamara_Adri%C3%A1n",
+    "bio": "lawyer, LGBT and trans activist who became Venezuela's first openly trans elected official[440]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Daniel Arzola",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Arzola",
+    "bio": "writer, artist, and activist[441]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Quiteria Franco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Quiteria_Franco",
+    "bio": "[442]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Feliciano Reyna",
+    "wikipedia": "https://en.wikipedia.org/wiki/Feliciano_Reyna",
+    "bio": "[443]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lương Thế Huy",
+    "wikipedia": "https://en.wikipedia.org/wiki/L%C6%B0%C6%A1ng_Th%E1%BA%BF_Huy",
+    "bio": "[444]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Kapya Kaoma",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kapya_Kaoma",
+    "bio": "[445]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "John Abdallah Wambere",
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Abdallah_Wambere",
+    "bio": "[446]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Moud Goba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Moud_Goba",
+    "bio": "[447]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Rikki Nathanson",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rikki_Nathanson",
+    "bio": "[448]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Tsitsi Tiripano",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tsitsi_Tiripano",
+    "bio": "[449]",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "List of LGBT rights organizations",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_rights_organizations",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBTQ social movements",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_social_movements",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "List of LGBT firsts by year",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_firsts_by_year",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "List of years in LGBT rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_years_in_LGBT_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "v",
+    "wikipedia": "https://en.wikipedia.org/wiki/Template:LGBTQ_rights_footer",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "t",
+    "wikipedia": "https://en.wikipedia.org/wiki/Template_talk:LGBTQ_rights_footer",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:EditPage/Template:LGBTQ_rights_footer",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lesbian",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lesbian_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Gay",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gay_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bisexual",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bisexual_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Transgender",
+    "wikipedia": "https://en.wikipedia.org/wiki/Transgender_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Intersex",
+    "wikipedia": "https://en.wikipedia.org/wiki/Intersex_human_rights",
+    "bio": "rights",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Capital punishment",
+    "wikipedia": "https://en.wikipedia.org/wiki/Capital_punishment_for_homosexuality",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Censorship of LGBTQ issues",
+    "wikipedia": "https://en.wikipedia.org/wiki/Censorship_of_LGBTQ_issues",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Criminalization",
+    "wikipedia": "https://en.wikipedia.org/wiki/Criminalization_of_homosexuality",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Decriminalization",
+    "wikipedia": "https://en.wikipedia.org/wiki/Decriminalization_of_homosexuality",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Legal status of transgender people",
+    "wikipedia": "https://en.wikipedia.org/wiki/Legal_status_of_transgender_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Legality of conversion therapy",
+    "wikipedia": "https://en.wikipedia.org/wiki/Legality_of_conversion_therapy",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBTQ rights at the United Nations",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_at_the_United_Nations",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Movements",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_movements",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Organizations",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_rights_organizations",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Societal attitudes",
+    "wikipedia": "https://en.wikipedia.org/wiki/Societal_attitudes_toward_homosexuality",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Student movement",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_student_movement",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Timeline of LGBTQ history",
+    "wikipedia": "https://en.wikipedia.org/wiki/Timeline_of_LGBTQ_history",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Transgender rights movement",
+    "wikipedia": "https://en.wikipedia.org/wiki/Transgender_rights_movement",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Africa",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Africa",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Americas",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_Americas",
+    "bio": "\nNorth America\nSouth America",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "North America",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_North_America",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "South America",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_South_America",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Asia",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Asia",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Europe",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Europe",
+    "bio": "\nan Union",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "European Union",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_European_Union",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Oceania",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Oceania",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Middle East",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_Middle_East",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Commonwealth",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_Commonwealth_of_Nations",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Post-Soviet states",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_post-Soviet_states",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1700s",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_18th_century",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1800s",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_19th_century",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1900–1949",
+    "wikipedia": "https://en.wikipedia.org/wiki/1900%E2%80%931949_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1950s",
+    "wikipedia": "https://en.wikipedia.org/wiki/1950s_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1960s",
+    "wikipedia": "https://en.wikipedia.org/wiki/1960s_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1970",
+    "wikipedia": "https://en.wikipedia.org/wiki/1970_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1971",
+    "wikipedia": "https://en.wikipedia.org/wiki/1971_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1972",
+    "wikipedia": "https://en.wikipedia.org/wiki/1972_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1973",
+    "wikipedia": "https://en.wikipedia.org/wiki/1973_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1974",
+    "wikipedia": "https://en.wikipedia.org/wiki/1974_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1975",
+    "wikipedia": "https://en.wikipedia.org/wiki/1975_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1976",
+    "wikipedia": "https://en.wikipedia.org/wiki/1976_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1977",
+    "wikipedia": "https://en.wikipedia.org/wiki/1977_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1978",
+    "wikipedia": "https://en.wikipedia.org/wiki/1978_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1979",
+    "wikipedia": "https://en.wikipedia.org/wiki/1979_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1980",
+    "wikipedia": "https://en.wikipedia.org/wiki/1980_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1981",
+    "wikipedia": "https://en.wikipedia.org/wiki/1981_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1982",
+    "wikipedia": "https://en.wikipedia.org/wiki/1982_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1983",
+    "wikipedia": "https://en.wikipedia.org/wiki/1983_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1984",
+    "wikipedia": "https://en.wikipedia.org/wiki/1984_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1985",
+    "wikipedia": "https://en.wikipedia.org/wiki/1985_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1986",
+    "wikipedia": "https://en.wikipedia.org/wiki/1986_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1987",
+    "wikipedia": "https://en.wikipedia.org/wiki/1987_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1988",
+    "wikipedia": "https://en.wikipedia.org/wiki/1988_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1989",
+    "wikipedia": "https://en.wikipedia.org/wiki/1989_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1990",
+    "wikipedia": "https://en.wikipedia.org/wiki/1990_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1991",
+    "wikipedia": "https://en.wikipedia.org/wiki/1991_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1992",
+    "wikipedia": "https://en.wikipedia.org/wiki/1992_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1993",
+    "wikipedia": "https://en.wikipedia.org/wiki/1993_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1994",
+    "wikipedia": "https://en.wikipedia.org/wiki/1994_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1995",
+    "wikipedia": "https://en.wikipedia.org/wiki/1995_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1996",
+    "wikipedia": "https://en.wikipedia.org/wiki/1996_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1997",
+    "wikipedia": "https://en.wikipedia.org/wiki/1997_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1998",
+    "wikipedia": "https://en.wikipedia.org/wiki/1998_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "1999",
+    "wikipedia": "https://en.wikipedia.org/wiki/1999_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2000",
+    "wikipedia": "https://en.wikipedia.org/wiki/2000_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2001",
+    "wikipedia": "https://en.wikipedia.org/wiki/2001_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2002",
+    "wikipedia": "https://en.wikipedia.org/wiki/2002_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2003",
+    "wikipedia": "https://en.wikipedia.org/wiki/2003_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2004",
+    "wikipedia": "https://en.wikipedia.org/wiki/2004_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2005",
+    "wikipedia": "https://en.wikipedia.org/wiki/2005_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2006",
+    "wikipedia": "https://en.wikipedia.org/wiki/2006_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2007",
+    "wikipedia": "https://en.wikipedia.org/wiki/2007_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2008",
+    "wikipedia": "https://en.wikipedia.org/wiki/2008_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2009",
+    "wikipedia": "https://en.wikipedia.org/wiki/2009_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2010",
+    "wikipedia": "https://en.wikipedia.org/wiki/2010_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2011",
+    "wikipedia": "https://en.wikipedia.org/wiki/2011_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2012",
+    "wikipedia": "https://en.wikipedia.org/wiki/2012_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2013",
+    "wikipedia": "https://en.wikipedia.org/wiki/2013_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2014",
+    "wikipedia": "https://en.wikipedia.org/wiki/2014_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2015",
+    "wikipedia": "https://en.wikipedia.org/wiki/2015_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2016",
+    "wikipedia": "https://en.wikipedia.org/wiki/2016_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2017",
+    "wikipedia": "https://en.wikipedia.org/wiki/2017_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2018",
+    "wikipedia": "https://en.wikipedia.org/wiki/2018_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2019",
+    "wikipedia": "https://en.wikipedia.org/wiki/2019_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2020",
+    "wikipedia": "https://en.wikipedia.org/wiki/2020_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2021",
+    "wikipedia": "https://en.wikipedia.org/wiki/2021_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2022",
+    "wikipedia": "https://en.wikipedia.org/wiki/2022_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2023",
+    "wikipedia": "https://en.wikipedia.org/wiki/2023_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2024",
+    "wikipedia": "https://en.wikipedia.org/wiki/2024_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "2025",
+    "wikipedia": "https://en.wikipedia.org/wiki/2025_in_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Communism and LGBTQ rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/Communism_and_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBTQ conservatism",
+    "wikipedia": "https://en.wikipedia.org/wiki/LGBTQ_conservatism",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Opposition to LGBTQ rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/Opposition_to_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Libertarian perspectives on LGBTQ rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/Libertarian_perspectives_on_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "New Left",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Left",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Queer anarchism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Queer_anarchism",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Queer radicalism",
+    "wikipedia": "https://en.wikipedia.org/wiki/Queer_radicalism",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Socialism and LGBTQ rights",
+    "wikipedia": "https://en.wikipedia.org/wiki/Socialism_and_LGBTQ_rights",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "v",
+    "wikipedia": "https://en.wikipedia.org/wiki/Template:LGBTQ_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "t",
+    "wikipedia": "https://en.wikipedia.org/wiki/Template_talk:LGBTQ_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "e",
+    "wikipedia": "https://en.wikipedia.org/wiki/Special:EditPage/Template:LGBTQ_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "African Americans",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_African-American_LGBT_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Jews",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_Jews",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Catholics",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_Catholics",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Politicians in the United Kingdom",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_politicians_in_the_United_Kingdom",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ambassadors of the United States",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_ambassadors_of_the_United_States",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Members of the United States Congress",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_members_of_the_United_States_Congress",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Heads of government",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_openly_LGBT_heads_of_state_and_government",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Political officials in the Netherlands",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_holders_of_political_offices_in_the_Netherlands",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Political officials in Australia",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTI_holders_of_political_offices_in_Australia",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "First holders of political offices",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_the_first_openly_LGBT_holders_of_political_offices",
+    "bio": "\nIn Canada\nIn the United Kingdom\nIn the United States",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "In Canada",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_the_first_openly_LGBT_holders_of_political_offices_in_Canada",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "In the United Kingdom",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_the_first_openly_LGBT_holders_of_political_offices_in_the_United_Kingdom",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "In the United States",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_first_openly_LGBTQ_politicians_in_the_United_States",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Academy Award winners and nominees",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_Academy_Award_winners_and_nominees",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sportspeople",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_sportspeople",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Artists",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_artists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Writers",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_writers",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "YouTubers",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBTQ_YouTubers",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Supreme court justices in the United States",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_LGBT_state_supreme_court_justices_in_the_United_States",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Pansexuals",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_pansexual_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sexually fluid people",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_who_identify_as_sexually_fluid",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lesbian filmmakers",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_lesbian_filmmakers",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "A",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_A",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Ba–Bh",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_Ba%E2%80%93Bh",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Bi–Bz",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_Bi%E2%80%93Bz",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "C",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_C",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "D–E",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_D%E2%80%93E",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "F",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_F",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "G",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_G",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "H",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_H",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "I–J",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_I%E2%80%93J",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "K",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_K",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "L",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_L",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "M",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_M",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "N–O",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_N%E2%80%93O",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "P–Q",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_P%E2%80%93Q",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "R",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_R",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sa–Sc",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_Sa%E2%80%93Sc",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sd–Si",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_Sd%E2%80%93Si",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Sj–Sz",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_Sj%E2%80%93Sz",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "T–V",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_T%E2%80%93V",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "W–Z",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_gay,_lesbian_or_bisexual_people:_W%E2%80%93Z",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "A–F",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_bisexual_people_(A%E2%80%93F)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "G–M",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_bisexual_people_(G%E2%80%93M)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "N–S",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_bisexual_people_(N%E2%80%93S)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "T–Z",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_bisexual_people_(T%E2%80%93Z)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Murder victims",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_killed_for_being_transgender",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Political office-holders",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_transgender_political_office-holders",
+    "bio": "\nUnited States",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "United States",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_transgender_public_officeholders_in_the_United_States",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Writers",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_non-binary_writers",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Wartime cross-dressers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wartime_cross-dressers",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Drag kings",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_drag_kings",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Drag queens",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_drag_queens",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Androgynous people",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_androgynous_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "List of people executed for homosexuality in Europe",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_for_homosexuality_in_Europe",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBTQ-related suicides",
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_suicides_of_LGBTQ_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "LGBTQ rights activists",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:LGBTQ_rights_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lists of activists",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Lists_of_activists",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Lists of LGBTQ-related people",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Lists_of_LGBTQ-related_people",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 Spanish-language sources (es)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_Spanish-language_sources_(es)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "All articles with dead external links",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:All_articles_with_dead_external_links",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Articles with dead external links from September 2024",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links_from_September_2024",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Webarchive template wayback links",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 French-language sources (fr)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_French-language_sources_(fr)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 German-language sources (de)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_German-language_sources_(de)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 Greek-language sources (el)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_Greek-language_sources_(el)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 Italian-language sources (it)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_Italian-language_sources_(it)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 Norwegian-language sources (no)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_Norwegian-language_sources_(no)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 maint: numeric names: authors list",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_maint:_numeric_names:_authors_list",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 Portuguese-language sources (pt)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_Portuguese-language_sources_(pt)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 European Portuguese-language sources (pt-pt)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_European_Portuguese-language_sources_(pt-pt)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 Swedish-language sources (sv)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_Swedish-language_sources_(sv)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 maint: multiple names: authors list",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_maint:_multiple_names:_authors_list",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1 Arabic-language sources (ar)",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1_Arabic-language_sources_(ar)",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "CS1: unfit URL",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:CS1:_unfit_URL",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Articles with short description",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Short description is different from Wikidata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Short_description_is_different_from_Wikidata",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Use dmy dates from October 2020",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_October_2020",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "EngvarB from June 2022",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:EngvarB_from_June_2022",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Articles containing potentially dated statements from June 2012",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_June_2012",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "All articles containing potentially dated statements",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:All_articles_containing_potentially_dated_statements",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Articles containing French-language text",
+    "wikipedia": "https://en.wikipedia.org/wiki/Category:Articles_containing_French-language_text",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Creative Commons Attribution-ShareAlike 4.0 License",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License",
+    "bio": "Text is available under the ;\nadditional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "About Wikipedia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia:About",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
+  },
+  {
+    "name": "Disclaimers",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer",
+    "bio": "",
+    "tags": [
+      "activist"
+    ]
   }
 ]
-
-

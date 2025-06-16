@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  padding: 2em;
+  background: #fefefe;
+  color: #222;
+}
+
+h1 {
+  text-align: center;
+}
+
+#timeline {
+  margin-top: 2em;
+}
+

@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Placeholder Name",
+    "birth": 1900,
+    "death": 1980,
+    "tags": ["activist", "transgressive"],
+    "bio": "This is just a placeholder person for testing.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Example"
+  }
+]
+
+
